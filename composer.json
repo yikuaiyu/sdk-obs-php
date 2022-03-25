@@ -2,7 +2,7 @@
 	"name" : "yikuaiyu/sdk-obs-php",
 	"description" : "OBS PHP SDK",
 	"license":"Apache-2.0",
-	"version":"3.19.9",
+	"version":"1.0",
 	"require" : {
 		"php" : ">=5.6.0",
 		"guzzlehttp/guzzle" : "^7.0",
